@@ -1,6 +1,7 @@
 for i in range (10):
 
     print("nah")
+    print('maybe tho')
     print("yup")
     
     
